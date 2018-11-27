@@ -1,0 +1,11 @@
+D:\etec\componentes\componentes\bin\Debug\componentes.exe.config
+D:\etec\componentes\componentes\bin\Debug\componentes.exe
+D:\etec\componentes\componentes\bin\Debug\componentes.pdb
+D:\etec\componentes\componentes\obj\Debug\componentes.csprojAssemblyReference.cache
+D:\etec\componentes\componentes\obj\Debug\componentes.Form1.resources
+D:\etec\componentes\componentes\obj\Debug\componentes.FormPessoa.resources
+D:\etec\componentes\componentes\obj\Debug\componentes.Properties.Resources.resources
+D:\etec\componentes\componentes\obj\Debug\componentes.csproj.GenerateResource.cache
+D:\etec\componentes\componentes\obj\Debug\componentes.csproj.CoreCompileInputs.cache
+D:\etec\componentes\componentes\obj\Debug\componentes.exe
+D:\etec\componentes\componentes\obj\Debug\componentes.pdb
